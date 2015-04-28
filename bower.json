@@ -1,0 +1,14 @@
+{
+  "name": "c-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yd-team/c-test",
+  "authors": [
+    "zhangyaochun <zhangyaochun@wandoujia.com>"
+  ],
+  "description": "test for bower",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}
